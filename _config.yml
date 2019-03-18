@@ -3,7 +3,7 @@ title: "Phú Quốc Đảo"
 url-title: "Điểm hẹn Phú Quốc"
 description: "Phú Quốc và nơi hẹn hò"
 paginate: 100
-url: "https://yokoha.site"
+url: "https://dacapnhat.netlify.com/"
 permalink: /:year/:month/:title/
 future: false
 defaults:
