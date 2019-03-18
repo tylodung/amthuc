@@ -1,9 +1,9 @@
 # Site settings
-title: "Món Chay Ngon"
-url-title: "Đồ Chay"
-description: "Tuyển tập các Món Chay Ngon của Đoàn Bình."
+title: "Phú Quốc Đảo"
+url-title: "Điểm hẹn Phú Quốc"
+description: "Phú Quốc và nơi hẹn hò"
 paginate: 100
-url: "http://png4jpg.com"
+url: "https://yokoha.site"
 permalink: /:year/:month/:title/
 future: false
 defaults:
