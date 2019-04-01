@@ -3,7 +3,7 @@ title: "Phú Quốc Đảo"
 url-title: "Điểm hẹn Phú Quốc"
 description: "Phú Quốc và nơi hẹn hò"
 paginate: 100
-url: "https://site-mau.netlify.com/"
+url: "https://site-mau-1.netlify.com"
 permalink: /:year/:month/:title/
 future: false
 defaults:
